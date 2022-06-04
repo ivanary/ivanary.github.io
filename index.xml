@@ -5,6 +5,34 @@
     <link>ivanary.github.com/</link>
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="ivanary.github.com/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sat, 04 Jun 2022 22:36:26 +0800</lastBuildDate><atom:link href="ivanary.github.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Book</title>
+      <link>ivanary.github.com/book/</link>
+      <pubDate>Sat, 04 Jun 2022 22:36:26 +0800</pubDate>
+      
+      <guid>ivanary.github.com/book/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>ivanary.github.com/about/</link>
+      <pubDate>Sat, 04 Jun 2022 22:18:28 +0800</pubDate>
+      
+      <guid>ivanary.github.com/about/</guid>
+      <description>about me </description>
+    </item>
+    
+    <item>
+      <title>Start</title>
+      <link>ivanary.github.com/2022/06/04/start/</link>
+      <pubDate>Sat, 04 Jun 2022 22:15:17 +0800</pubDate>
+      
+      <guid>ivanary.github.com/2022/06/04/start/</guid>
+      <description>测试 </description>
+    </item>
+    
   </channel>
 </rss>
