@@ -153,6 +153,15 @@ img {
   color: #555;
 }
 
+.comment {
+  max-width: 700px;
+  margin: 60px auto 80px;
+  padding: 0 15px;
+  font-size: 16px;
+  line-height: 1.7;
+  color: #555;
+}
+
 .article-title {
   font-size: 28px;
   color: #222;

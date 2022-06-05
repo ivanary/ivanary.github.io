@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>start on </title>
+    <link>https://ivanary.github.io/tags/start/</link>
+    <description>Recent content in start on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 04 Jun 2022 22:15:17 +0800</lastBuildDate><atom:link href="https://ivanary.github.io/tags/start/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Start</title>
+      <link>https://ivanary.github.io/2022/06/04/start/</link>
+      <pubDate>Sat, 04 Jun 2022 22:15:17 +0800</pubDate>
+      
+      <guid>https://ivanary.github.io/2022/06/04/start/</guid>
+      <description>测试 var tmp = &amp;#34;a&amp;#34; fun main (){ } </description>
+    </item>
+    
+  </channel>
+</rss>
