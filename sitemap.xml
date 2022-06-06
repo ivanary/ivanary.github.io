@@ -2,8 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://ivanary.github.io/tags/java/</loc>
+    <lastmod>2022-06-05T17:51:12+08:00</lastmod>
+  </url><url>
+    <loc>https://ivanary.github.io/tags/spingboot/</loc>
+    <lastmod>2022-06-05T17:51:12+08:00</lastmod>
+  </url><url>
+    <loc>https://ivanary.github.io/tags/spring/</loc>
+    <lastmod>2022-06-05T17:51:12+08:00</lastmod>
+  </url><url>
+    <loc>https://ivanary.github.io/spring-boot-start-up-analysis/</loc>
+    <lastmod>2022-06-05T17:51:12+08:00</lastmod>
+  </url><url>
+    <loc>https://ivanary.github.io/tags/</loc>
+    <lastmod>2022-06-05T17:51:12+08:00</lastmod>
+  </url><url>
     <loc>https://ivanary.github.io/</loc>
-    <lastmod>2022-06-04T22:36:26+08:00</lastmod>
+    <lastmod>2022-06-05T17:51:12+08:00</lastmod>
   </url><url>
     <loc>https://ivanary.github.io/book/</loc>
     <lastmod>2022-06-04T22:36:26+08:00</lastmod>
@@ -15,9 +30,6 @@
     <lastmod>2022-06-04T22:15:17+08:00</lastmod>
   </url><url>
     <loc>https://ivanary.github.io/start/</loc>
-    <lastmod>2022-06-04T22:15:17+08:00</lastmod>
-  </url><url>
-    <loc>https://ivanary.github.io/tags/</loc>
     <lastmod>2022-06-04T22:15:17+08:00</lastmod>
   </url><url>
     <loc>https://ivanary.github.io/categories/</loc>

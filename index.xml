@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
+    <title>林中小屋</title>
     <link>https://ivanary.github.io/</link>
-    <description>Recent content on </description>
+    <description>Recent content on 林中小屋</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 Jun 2022 22:36:26 +0800</lastBuildDate><atom:link href="https://ivanary.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 05 Jun 2022 17:51:12 +0800</lastBuildDate><atom:link href="https://ivanary.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Spring boot 启动流程全解析以及扩展点解析</title>
+      <link>https://ivanary.github.io/spring-boot-start-up-analysis/</link>
+      <pubDate>Sun, 05 Jun 2022 17:51:12 +0800</pubDate>
+      
+      <guid>https://ivanary.github.io/spring-boot-start-up-analysis/</guid>
+      <description>Spring boot 启动流程全解析以及扩展点解析 通过整理SpringBoot全流程，可以更好的俯视项目的运行流程，并且可以快速的定位到具体的代码，方便高效 通过整理SpringBoot扩展点流程，可以更好的俯视Spring中bean的整个生命周期以及扩展的切入点，并且可以快速的定位到具体的代码，方便高效 </description>
+    </item>
+    
     <item>
       <title>Book</title>
       <link>https://ivanary.github.io/book/</link>
